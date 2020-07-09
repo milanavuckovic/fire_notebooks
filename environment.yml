@@ -8,5 +8,6 @@ dependencies:
   - xarray
   - pandas
   - seaborn
+  - dask
   - cdsapi
   - magics
