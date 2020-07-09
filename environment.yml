@@ -1,0 +1,11 @@
+name: fire-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - xarray
+  - pandas
+  - seaborn
+  - cdsapi
+  - magics
